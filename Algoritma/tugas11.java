@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tugas7 {
+public class tugas11 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 

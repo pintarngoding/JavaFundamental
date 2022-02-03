@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tugas8 {
+public class tugas12 {
 
     public static void sequentialSearchAngka(int[] arr, int key) {
         boolean ketemu = false;
