@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ujian6 {
+public class Ujian5 {
 
     public static int deret1248(int x) {
         if (x == 1) {
